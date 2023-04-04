@@ -8,8 +8,7 @@ title = "ZK SHANGHAI"
 [output.html]
 mathjax-support = true
 site-url = "https://zkshanghai.xyz"
-git-repository-url = "https://github.com/rust-lang/mdBook/tree/master/guide"
-edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+git-repository-url = "https://github.com/dicaprioJ/zkshanghai-workshop"
 
 [output.html.playground]
 editable = true
